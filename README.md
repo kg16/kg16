@@ -13,3 +13,10 @@
 [website]: https://kg16.github.io/
 [linkedin]: https://www.linkedin.com/in/kritigoyal16/
 [instagram]: https://www.instagram.com/_kritigoyal/
+
+
+<div class="views">
+    <span class="views">
+        <img src="https://visitor-badge.glitch.me/badge?page_id={{ .Permalink }}" alt="Views"/>
+    </span>
+</div>
