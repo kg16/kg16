@@ -17,6 +17,6 @@
 
 <div class="views">
     <span class="views">
-        <img src="https://visitor-badge.glitch.me/badge?page_id={{ .Permalink }}" alt="Views"/>
+        <img src="https://visitor-badge.glitch.me/badge?page_id=kg16.kg16" alt="Views"/>
     </span>
 </div>
