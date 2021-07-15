@@ -2,7 +2,7 @@
 
 -   Currently a Machine Learning Engineer with Apple
 - 🎓 Incoming Graduate Student in Computer Science from the University of Wisconsin-Madison
-- 💼 I’m looking for an internship for Summer'22
+<!-- - 💼 I’m looking for an internship for Summer'22 -->
 
 ### Connect with me:
 [<img align="left" alt="webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
