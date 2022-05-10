@@ -1,8 +1,8 @@
 <h1 align="center"> Hi, I'm Kriti <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
--   Currently a Machine Learning Engineer with Apple
-- 🎓 Incoming Graduate Student in Computer Science from the University of Wisconsin-Madison
-<!-- - 💼 I’m looking for an internship for Summer'22 -->
+-   Currently a Machine Learning Engineering - summer intern with Apple
+- 🎓 Graduate Student in Computer Science from the University of Wisconsin-Madison
+- 💼 I’m looking for an internship for Fall'22
 
 ### Connect with me:
 [<img align="left" alt="webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
