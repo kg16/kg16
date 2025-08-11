@@ -2,7 +2,6 @@
 
 -  Currently a Machine Learning Engineer with Apple
 - 🎓 MS in Computer Science from the University of Wisconsin-Madison
-- 💼 I’m looking for full time Machine Learning positions in US
 
 ### Connect with me:
 [<img align="left" alt="webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -14,9 +13,3 @@
 [linkedin]: https://www.linkedin.com/in/kritigoyal16/
 [instagram]: https://www.instagram.com/_kritigoyal/
 
-
-<div class="views">
-    <span class="views">
-        <img src="https://visitor-badge.glitch.me/badge?page_id=kg16.kg16" alt="Views"/>
-    </span>
-</div>
