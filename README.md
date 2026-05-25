@@ -15,17 +15,14 @@
 
 ### About
 
-- 🍎 Core contributor to **Apple Foundation Models** — the key framework behind Apple Intelligence experiences across Siri, Messages, Photos, and Accessibility.
-- 📦 Maintainer of [`tamm`](https://pypi.org/project/tamm/), Apple's open-source PyTorch library, empowering App Store developers to build AI features in their own apps.
-- 🚀 Building high-performance inference serving for multi-modal foundation models (150B+ params) and the publishing pipelines that ship on-device and server models to millions of users.
+- Core contributor to **Apple Foundation Models** — the key framework behind Apple Intelligence experiences across Siri, Messages, Photos, and Accessibility.
+- 📦 Some of my work is open-sourced via [`tamm`](https://pypi.org/project/tamm/), Apple's PyTorch library that lets App Store developers build AI features in their own apps.
+- 🚀 Building high-performance inference serving for multi-modal foundation models (1T+ parameters) and the publishing pipelines that ship on-device and server models to millions of users.
 
 ### Background
 
 - 🎓 MS in Computer Science, **University of Wisconsin–Madison**
-- 🏛️ B.E. Computer Science, **BITS Pilani** · Distinguished Alumna (2024)
-- 🏅 **IEEE Senior Member** (held by fewer than 10% of IEEE members worldwide)
-- 📝 Reviewer for *IEEE Transactions on Big Data*, *CVPR*, *ICML*, *ACL*, *KDD* — 60+ reviews
-- 🎤 Invited speaker on foundation models, AI agents, and ML systems
+- 🏛️ B.E. Computer Science, **BITS Pilani**
 
 ### Open to
 
